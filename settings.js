@@ -20,22 +20,29 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is YASIRU CHATHUMINA😎` //Costomize Alive Message (type your message in `DINU QUEEN LOVELY ❤❤❤ 
+POWERED BY SL CHATHUMINA 🇯🇵
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+*OWNER - YASIRU CHATHUMINA 💫💫
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+*SPECIAL - DINITHI DEWMINI 💖💖
+
+POWER FULL WHATSAPP BOT 😈🌍` )
+
+global.owner = ['+94760155633'] //Owner number in aive msg
+global.premium = ['+94760155633'] //Owner Number info
+global.ownernomer = '+94760155633' //Owner Number <<<
+
+global.ownername = '😎YASIRU CHATHUMINA' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ BOT SITE ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://sites.google.com/view/chathuminabot/home' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.author = '😎DEWMINI❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -43,7 +50,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://sites.google.com/view/chathuminabot/home' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
